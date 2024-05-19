@@ -16,8 +16,9 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Lohit00/My-CiP-App.git
 Navigate to the project directory and install dependencies:
--cd My-CiP-App
--npm install
+cd My-CiP-App
+
+npm install
 
 Start the application:
 expo start
